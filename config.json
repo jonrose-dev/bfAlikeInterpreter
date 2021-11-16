@@ -1,0 +1,12 @@
+{
+    "commandsMap": {
+        "Emma": "increment",
+        "Jake": "decrement",
+        "Jon": "moveRight",
+        "Yen": "moveLeft",
+        "Andy": "write",
+        "Robbie": "startLoop",
+        "Frederick": "endLoop",
+        "Charlamagne": "read"
+    }
+}
